@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm verdun1337</h1>
+<h1 align="center">🧙‍♂️ Patryk – sorcerer of software, sworn enemy of runtime errors</h1>
 
 <p align="center">
 🎯 Passionate about backend development, Java & Spring ecosystems<br/>
