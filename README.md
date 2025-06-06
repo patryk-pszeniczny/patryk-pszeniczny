@@ -48,7 +48,7 @@
 
 ### 💼 Experience Snapshot
 
-- 🏭 Developed a unified internal tool for **Anderson Johannes Furniture Factory**, later adapted by **19+ companies across**.
+- 🏭 Developed a unified internal tool for a manufacturing company, later adapted by **19+ businesses**.
 - 🔁 Created modular, reusable software solutions tailored for **multiple B2B clients** (7+ companies) under a single core system.
 - 🌍 Ensured internationalization, scalability and long-term maintainability across varied deployments.
 
