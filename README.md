@@ -62,6 +62,16 @@
 - 😎 Watching enterprise devs struggle with things I fixed on day 3 gives me peace.
 - 🧱 *“Stay calm, don’t lean out the window — and the brick won’t hit you. Just don’t stand in my way.”*  
   <sub>– Jordan M.</sub>
+
+---
+
+
+### 🧱 Bonus info
+
+> ❌ Don’t bother looking here for the *Rust-style building system* –  
+> I’m not sharing it... unless we talk in the range of **120k–130k PLN** 💸
+
+😎
 ---
 
 ### 📫 Let's Connect
