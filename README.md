@@ -67,7 +67,7 @@
 ### 📫 Let's Connect
 
 - 💻 Personal blog (soon™)
-- ✉️ Reach out via GitHub or LinkedIn (link here if you have one)
+- ✉️ Reach out via GitHub
 
 ---
 
